@@ -6,8 +6,6 @@ import (
 	"net/http"
 	"time"
 
-	_ "net/http/pprof"
-
 	_ "github.com/go-sql-driver/mysql"
 )
 
